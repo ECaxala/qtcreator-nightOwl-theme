@@ -1,0 +1,18 @@
+<styles>
+    <style name="TextEditor" class="TextEditor">
+        <!-- Allgemeine Editor-Farben -->
+        <Color name="Background" value="#011627"/>  <!-- Dunkelblauer Hintergrund -->
+        <Color name="Text" value="#d6deeb"/>         <!-- Haupttextfarbe -->
+        <Color name="LineNumber" value="#637777"/>    <!-- Grau für Zeilennummern -->
+        <Color name="CurrentLineNumber" value="#82AAFF"/> <!-- Blau für aktuelle Zeilennummer -->
+        <Color name="Selection" value="#5f7e97"/>     <!-- Auswahl-Hintergrund -->
+        <Color name="SelectionText" value="#ffffff"/> <!-- Textfarbe bei Auswahl -->
+        <Color name="CurrentLine" value="#1a3b5a"/>   <!-- Hintergrund der aktuellen Zeile -->
+    </style>
+
+    <!-- Farben für die Sidebar und UI-Elemente -->
+    <style name="ProjectExplorer" class="ProjectExplorer">
+        <Color name="Background" value="#011627"/>
+        <Color name="Text" value="#d6deeb"/>
+    </style>
+</styles>

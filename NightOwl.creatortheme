@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorTheme>
+<theme name="Night Owl" version="1.0">
+    <style name="Text">
+        <textColor>#d6deeb</textColor>  <!-- Haupttextfarbe -->
+        <backgroundColor>#011627</backgroundColor>  <!-- Dunkelblauer Hintergrund -->
+    </style>
+
+    <!-- Schlüsselwörter (Keywords) -->
+    <style name="Keyword" bold="true">
+        <textColor>#c792ea</textColor>  <!-- Lila-Ton für Keywords -->
+    </style>
+
+    <!-- Funktionen und Methoden -->
+    <style name="Function">
+        <textColor>#82AAFF</textColor>  <!-- Hellblau für Funktionen -->
+    </style>
+
+    <!-- Zeichenketten (Strings) -->
+    <style name="String">
+        <textColor>#ecc48e</textColor>  <!-- Orange für Strings -->
+    </style>
+
+    <!-- Kommentare -->
+    <style name="Comment">
+        <textColor>#637777</textColor>  <!-- Grau für Kommentare -->
+    </style>
+
+    <!-- Zahlen -->
+    <style name="Number">
+        <textColor>#F78C6C</textColor>  <!-- Orange-Rot für Zahlen -->
+    </style>
+
+    <!-- Typen (Klassen, Structs) -->
+    <style name="Type">
+        <textColor>#7fdbca</textColor>  <!-- Türkis für Typen -->
+    </style>
+</theme>
